@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    
+    min-height: 100vh;
+    background-color:#e5e5fd;
+    border: 10px solid black;
+}
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.written{
+    /* display: flex; */
+    /* margin-left: 300px; */
+    font-size: 40px;
+    font-weight: bold;
+    
+    
+}
+.heading{
+    text-align: center;
+    font: bold;
+    
+}
+.date{
+    display: flex;
+    font-size:20px ;
+    font-weight: bold;
+
+}
+.para{
+    text-align: center;
+}

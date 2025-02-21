@@ -1,0 +1,40 @@
+div{
+
+    /* rotate properties */
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    /* transform: rotate(90deg); */
+    transition: all 2s ease-in;
+    
+
+
+    /* scale properties */
+
+    /* transform: scale(2); */
+    /* transform: scale(1,2 ); */
+    /* transform: scaleX(2); */
+        /* transform: scaleY(2); */
+
+}
+div:hover{
+    transform: scaleX(2);
+    transform: rotate(90deg);
+    /* tranlatex y -x -y */
+
+    transform: translateX(200px);
+    /* transform: translatey(200px); */
+    /* transform: translateX(-200px); */
+    /* transform: translateY(-200px); */
+    /* transform: translate(100px , 80px); */
+    /* skew */
+transform: skew(90deg);
+
+
+
+
+}

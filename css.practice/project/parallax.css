@@ -1,0 +1,101 @@
+html,body{
+    
+    margin: 0;
+    height: 100%;
+}
+.paralax1{
+    background-image: url(/photos/image1.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.btext{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+  width: 100%;
+
+}
+.bgclr{
+    text-transform: uppercase;
+    font-size: 30px;
+    background-color: darkolivegreen;
+    color:black;
+    padding: 10px;
+}
+.section{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+.section2{
+    background-color: #f4f4f4;
+    color: #666;
+}
+.paralax2{
+    background-image: url(/photos/image3.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.btext2{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+  width: 100%;
+
+}
+.bgclr2{
+    text-transform: uppercase;
+    font-size: 30px;
+    background-color: slategrey;
+    color:black;
+    padding: 10px;
+}
+.head{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+.heading1{
+    background-color: #f4f4f4;
+    color: #666;
+}
+.paralax3{
+    background-image: url(/photos/image4.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.btext3{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+  width: 100%;
+
+}
+.bgclr3{
+    text-transform: uppercase;
+    font-size: 30px;
+    background-color: rgb(68, 221, 255);
+    color:black;
+    padding: 10px;
+}
+.teen{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+.three{
+    background-color: #f4f4f4;
+    color: #666;
+}
